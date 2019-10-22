@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Practica6</string>
+    <string name="btn">Presiona</string>
+    <string name="txt1">Estamos en una pantalla de 5\"</string>
+    <string name="txt">Estamos en una pantalla de 5\"</string>
+    <string name="txt2">Estamos en una pantalla de 6\"</string>
+    <string name="txt3">Estamos en una pantalla de 5.5\"</string>
+    <string name="img">INTERPOL</string>
+    <string name="img1">interpol</string>
+    <string name="img2">interpol</string>
+</resources>
